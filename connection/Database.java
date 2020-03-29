@@ -1,4 +1,4 @@
-package koneksi;
+package connection;
 
 public class Database{
 	public static void hubungkan (){
